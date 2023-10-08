@@ -1,0 +1,16 @@
+# Ignore gitignore file
+!.gitignore
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore virtual environments
+venv/
+comb/ # comb is the name of the virtual environment
+
+# Ignore dependencies installed by package managers
+node_modules/
