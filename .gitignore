@@ -9,8 +9,14 @@
 *.swp
 
 # Ignore virtual environments
-venv/
-comb/ # comb is the name of the virtual environment
+venv
+comb
 
 # Ignore dependencies installed by package managers
 node_modules/
+
+# Ignore pycache files
+__pycache__/
+
+# Ignore compiled files (python)
+*.pyc

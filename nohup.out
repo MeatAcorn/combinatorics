@@ -1,0 +1,22 @@
+[W 13:35:32.495 NotebookApp] Loading JupyterLab as a classic notebook (v6) extension.
+[I 2023-10-14 13:35:32.498 LabApp] JupyterLab extension loaded from /home/v/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-10-14 13:35:32.498 LabApp] JupyterLab application directory is /home/v/anaconda3/share/jupyter/lab
+Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+NumExpr defaulting to 8 threads.
+[I 13:35:33.236 NotebookApp] Serving notebooks from local directory: /home/v/projects/combinatorics
+[I 13:35:33.236 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 13:35:33.236 NotebookApp] http://localhost:8888/?token=6d1ab461c8e3a4b28c23d3490fcc2e51b05671f3337289d0
+[I 13:35:33.236 NotebookApp]  or http://127.0.0.1:8888/?token=6d1ab461c8e3a4b28c23d3490fcc2e51b05671f3337289d0
+[I 13:35:33.236 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:35:33.256 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/v/.local/share/jupyter/runtime/nbserver-197431-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=6d1ab461c8e3a4b28c23d3490fcc2e51b05671f3337289d0
+     or http://127.0.0.1:8888/?token=6d1ab461c8e3a4b28c23d3490fcc2e51b05671f3337289d0
+Gtk-Message: 13:35:33.390: Failed to load module "canberra-gtk-module"
+Gtk-Message: 13:35:33.391: Failed to load module "canberra-gtk-module"
+Gtk-Message: 13:35:33.607: Failed to load module "canberra-gtk-module"
+Gtk-Message: 13:35:33.608: Failed to load module "canberra-gtk-module"
+Opening in existing browser session.
