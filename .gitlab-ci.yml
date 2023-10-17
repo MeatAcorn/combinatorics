@@ -5,6 +5,7 @@ stages:
 
 before_script:
   - pip install -r requirements.txt
+  - export PYTHONPATH=$PYTHONPATH:/combinatorics
 
 test:
   script:
